@@ -48,4 +48,4 @@ Contributions are always welcome! If you've completed this program or have addit
 
 ## Acknowledgements
 
-I would like to thank the Microsoft team for creating this well-structured and industry-relevant course, and the supportive community of learners who added so much to the experience.
+I'd like to thank the Microsoft team for creating this well-structured and industry-relevant course, and the supportive community of learners who added so much to the experience.
