@@ -43,8 +43,6 @@ The program offered:
 
 To view my official certificate of completion, please [click here](https://github.com/firatozen/Microsoft-Azure-Data-Scientist-Associate-DP-100-Specialization/blob/a64dbe4d64fad3fdc5c931a14a689ce8a8119bda/Microsoft%20Azure%20Data%20Scientist%20Associate%20(DP-100)%20Specialization/Certificate.pdf).
 
-Microsoft Azure Data Scientist Associate (DP-100) Specialization/Certificate.pdf
-
 ## 🛠 Applied Learning Project
 
 The certification included a capstone project, allowing me to apply my learning in real-world scenarios. I developed end-to-end machine learning models using the Azure platform, including:
