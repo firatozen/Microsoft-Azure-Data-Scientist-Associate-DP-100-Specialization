@@ -2,50 +2,63 @@
 
 ## Overview
 
-The **Microsoft Azure Data Scientist Associate (DP-100) Professional Certificate** prepared me to implement and run machine learning workloads on Azure, enhancing my data science expertise through real-world applications in cloud computing and machine learning. Developed by Microsoft, this program taught me essential skills in data science and machine learning deployment on Azure.
+The **Microsoft Azure Data Scientist Associate (DP-100) Professional Certificate** equips data scientists with the expertise to implement and operationalize machine learning solutions on Azure. Awarded by Microsoft, this credential reflects my skills in end-to-end machine learning workflows, from data preparation and experimentation to deployment on Azure's cloud platform.
 
-Data science on Azure combines the power of machine learning with scalable cloud infrastructure. With this certificate, I gained the skills to create, manage, and deploy ethical machine learning solutions within the Azure ecosystem.
+The certification aligns with industry standards for data science proficiency in the cloud and empowers professionals to address complex machine learning scenarios within the Azure ecosystem.
 
-## 🚀 Skills and Benefits Gained
+## 🚀 Key Skills Acquired
 
-- **Azure Resource Management**: Acquired skills in managing and configuring Azure resources specifically for machine learning.
-- **Model Training and Experimentation**: Practiced running experiments and training machine learning models directly on Azure.
-- **Ethical and Responsible AI**: Gained a strong foundation in deploying responsible AI solutions, ensuring models are fair, transparent, and reliable.
-- **Azure Databricks**: Hands-on experience using Databricks for data exploration and model building, integrated with Azure Machine Learning.
-- **End-to-End ML Deployment**: Developed the ability to operationalize ML models, preparing me for real-world data science deployment in the cloud.
+This program helped me develop a suite of skills critical to the field:
 
-The program consists of 5 specialized courses:
+- **Azure Resource Management**: Hands-on experience managing Azure resources specifically configured for machine learning workflows.
+- **Model Training and Experimentation**: Competency in running data science experiments, training, and tuning models directly within Azure.
+- **Deployment and Operationalization**: Skilled in deploying scalable, production-ready machine learning solutions on Azure.
+- **Ethical AI and Responsible Machine Learning**: Training in responsible AI practices, ensuring transparency and fairness within models.
+- **Azure Databricks**: In-depth usage of Databricks for data exploration, preparation, and modeling, integrated with Azure Machine Learning.
 
-1. **Create Machine Learning Models in Microsoft Azure**
-2. **Microsoft Azure Machine Learning for Data Scientists**
-3. **Build and Operate Machine Learning Solutions with Azure**
-4. **Perform Data Science with Azure Databricks**
-5. **Prepare for DP-100: Data Science on Microsoft Azure Exam**
+## 📜 Certificate Structure
 
-## 📚 Learning Materials & Timeframe
+The program consists of 5 focused courses designed to build practical and theoretical knowledge in Azure data science applications. Each course required dedication and provided in-depth training in key competencies:
 
-The course offered a blend of:
+1. **Create Machine Learning Models in Microsoft Azure** - 12 hours
+   - Fundamentals of machine learning model creation within the Azure platform.
+2. **Microsoft Azure Machine Learning for Data Scientists** - 11 hours
+   - Advanced skills for configuring Azure Machine Learning resources and pipelines.
+3. **Build and Operate Machine Learning Solutions with Azure** - 31 hours
+   - Comprehensive training on deploying and operationalizing machine learning solutions.
+4. **Perform Data Science with Azure Databricks** - 25 hours
+   - Exploration and analysis of data using Databricks integrated with Azure.
+5. **Prepare for DP-100: Data Science on Microsoft Azure Exam** - 9 hours
+   - Tailored exam preparation to validate knowledge and readiness for certification.
 
-- Video lectures and in-depth readings
-- Interactive practice exercises and quizzes
-- Hands-on labs within the Microsoft Learn Sandbox for practical experience
+### Learning Format and Flexibility
 
-While the program is flexible, I completed it over approximately 2 months, dedicating around 10 hours per week.
+The program offered:
+
+- Interactive video lectures, guided readings, and quizzes.
+- Hands-on labs using the Microsoft Learn Sandbox, a free environment for practical experience.
+- Flexibility in pacing, allowing for completion within approximately 2 months at 10 hours per week.
 
 ## 🎓 Certificate
 
-You can view my certificate of completion [here](https://github.com/firatozen/Microsoft-Azure-Data-Scientist-Associate-DP-100-Specialization/blob/a64dbe4d64fad3fdc5c931a14a689ce8a8119bda/Microsoft%20Azure%20Data%20Scientist%20Associate%20(DP-100)%20Specialization/Certificate.pdf).
+To view my official certificate of completion, please [click here](https://github.com/firatozen/Microsoft-Azure-Data-Scientist-Associate-DP-100-Specialization/blob/a64dbe4d64fad3fdc5c931a14a689ce8a8119bda/Microsoft%20Azure%20Data%20Scientist%20Associate%20(DP-100)%20Specialization/Certificate.pdf).
 
 ![Certificate](Certificate.pdf)
 
 ## 🛠 Applied Learning Project
 
-Throughout the program, I engaged with interactive projects within the Azure environment, enhancing my practical skills. I worked in the Microsoft Learn Sandbox to implement Azure-based ML solutions, gaining confidence in using Azure resources effectively and safely. The capstone project provided an opportunity to showcase my skills, allowing me to demonstrate my end-to-end data science expertise on Microsoft Azure.
+The certification included a capstone project, allowing me to apply my learning in real-world scenarios. I developed end-to-end machine learning models using the Azure platform, including:
+
+- **Data Ingestion and Preparation**: Leveraging Azure Databricks for streamlined data handling.
+- **Model Development and Training**: Running machine learning experiments directly within Azure ML environments.
+- **Deployment in Sandbox**: Practicing secure and scalable deployment within the Microsoft Learn Sandbox, which simulates a real-world cloud environment without incurring costs.
+
+The practical labs reinforced theoretical concepts and provided an authentic experience of deploying models within the Azure ecosystem.
 
 ## Contributions
 
-Contributions are always welcome! If you've completed this program or have additional insights or resources, feel free to submit a pull request. Whether fixing a typo or adding a helpful resource, your contributions are valuable.
+Contributions are always welcome! If you have suggestions, resources, or improvements for this README or have also completed this certification, feel free to submit a pull request.
 
 ## Acknowledgements
 
-I'd like to thank the Microsoft team for creating this well-structured and industry-relevant course, and the supportive community of learners who added so much to the experience.
+Gratitude goes to Microsoft for designing such a comprehensive program and to the Coursera learning community for its continuous support and collaborative environment.
